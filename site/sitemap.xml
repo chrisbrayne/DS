@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://ams-digital-scholar.netlify.app/</loc>
+         <lastmod>2026-03-20</lastmod>
+    </url>
+    <url>
+         <loc>https://ams-digital-scholar.netlify.app/tools/ai_discovery/</loc>
+         <lastmod>2026-03-20</lastmod>
+    </url>
+    <url>
+         <loc>https://ams-digital-scholar.netlify.app/tools/hypothesis/</loc>
+         <lastmod>2026-03-20</lastmod>
+    </url>
+    <url>
+         <loc>https://ams-digital-scholar.netlify.app/tools/obsidian/</loc>
+         <lastmod>2026-03-20</lastmod>
+    </url>
+    <url>
+         <loc>https://ams-digital-scholar.netlify.app/tools/tropy/</loc>
+         <lastmod>2026-03-20</lastmod>
+    </url>
+    <url>
+         <loc>https://ams-digital-scholar.netlify.app/tools/zotero/</loc>
+         <lastmod>2026-03-20</lastmod>
+    </url>
+</urlset>

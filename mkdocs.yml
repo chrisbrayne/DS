@@ -1,0 +1,39 @@
+site_name: AMS Digital Scholar
+site_url: https://ams-digital-scholar.netlify.app/
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Tools:
+      - Zotero: tools/zotero.md
+      - Obsidian: tools/obsidian.md
+      - Tropy: tools/tropy.md
+      - Hypothesis: tools/hypothesis.md
+      - AI Discovery: tools/ai_discovery.md
+  - Tutorials: tutorials/index.md
+  - Research: research/index.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
