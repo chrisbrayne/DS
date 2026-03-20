@@ -3,7 +3,8 @@
 Welcome to the **Digital Scholar (DS)** tutorial library. These step-by-step guides are designed to help AMS staff master the tools of digital scholarship.
 
 ## Available Tutorials
-*   *Coming Soon:* [Setting up your first Zotero Group Library](zotero_setup.md)
+*   [Setting up your first Zotero Group Library](zotero_setup.md)
+*   [Visualising Research Networks with Research Rabbit](research_rabbit.md)
 *   *Coming Soon:* [Building an Archaeological Knowledge Graph in Obsidian](obsidian_vault.md)
 *   *Coming Soon:* [Collaborative Annotation with Hypothesis](hypothesis_guide.md)
 
