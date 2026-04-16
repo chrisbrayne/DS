@@ -1,5 +1,5 @@
 site_name: AMS Digital Scholar
-site_url: https://ams-digital-scholar.netlify.app/
+site_url: https://amsds.netlify.app/
 theme:
   name: material
   palette:
@@ -30,8 +30,17 @@ nav:
       - Tropy: tools/tropy.md
       - Hypothesis: tools/hypothesis.md
       - AI Discovery: tools/ai_discovery.md
-  - Tutorials: tutorials/index.md
-  - Research: research/index.md
+  - Tutorials:
+      - Index: tutorials/index.md
+      - Zotero Setup: tutorials/zotero_setup.md
+      - Obsidian Vault: tutorials/obsidian_vault.md
+      - Tropy Guide: tutorials/tropy_guide.md
+      - Hypothesis Guide: tutorials/hypothesis_guide.md
+      - AI Discovery Guide: tutorials/ai_discovery_guide.md
+      - Research Rabbit: tutorials/research_rabbit.md
+  - Research:
+      - Index: research/index.md
+      - Promotion Strategy: research/promotion_strategy.md
 
 markdown_extensions:
   - admonition

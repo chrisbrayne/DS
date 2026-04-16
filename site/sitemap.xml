@@ -1,27 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://ams-digital-scholar.netlify.app/</loc>
-         <lastmod>2026-03-20</lastmod>
+         <loc>https://amsds.netlify.app/</loc>
+         <lastmod>2026-04-16</lastmod>
     </url>
     <url>
-         <loc>https://ams-digital-scholar.netlify.app/tools/ai_discovery/</loc>
-         <lastmod>2026-03-20</lastmod>
+         <loc>https://amsds.netlify.app/research/</loc>
+         <lastmod>2026-04-16</lastmod>
     </url>
     <url>
-         <loc>https://ams-digital-scholar.netlify.app/tools/hypothesis/</loc>
-         <lastmod>2026-03-20</lastmod>
+         <loc>https://amsds.netlify.app/research/promotion_strategy/</loc>
+         <lastmod>2026-04-16</lastmod>
     </url>
     <url>
-         <loc>https://ams-digital-scholar.netlify.app/tools/obsidian/</loc>
-         <lastmod>2026-03-20</lastmod>
+         <loc>https://amsds.netlify.app/tools/ai_discovery/</loc>
+         <lastmod>2026-04-16</lastmod>
     </url>
     <url>
-         <loc>https://ams-digital-scholar.netlify.app/tools/tropy/</loc>
-         <lastmod>2026-03-20</lastmod>
+         <loc>https://amsds.netlify.app/tools/hypothesis/</loc>
+         <lastmod>2026-04-16</lastmod>
     </url>
     <url>
-         <loc>https://ams-digital-scholar.netlify.app/tools/zotero/</loc>
-         <lastmod>2026-03-20</lastmod>
+         <loc>https://amsds.netlify.app/tools/obsidian/</loc>
+         <lastmod>2026-04-16</lastmod>
+    </url>
+    <url>
+         <loc>https://amsds.netlify.app/tools/tropy/</loc>
+         <lastmod>2026-04-16</lastmod>
+    </url>
+    <url>
+         <loc>https://amsds.netlify.app/tools/zotero/</loc>
+         <lastmod>2026-04-16</lastmod>
+    </url>
+    <url>
+         <loc>https://amsds.netlify.app/tutorials/</loc>
+         <lastmod>2026-04-16</lastmod>
+    </url>
+    <url>
+         <loc>https://amsds.netlify.app/tutorials/ai_discovery_guide/</loc>
+         <lastmod>2026-04-16</lastmod>
+    </url>
+    <url>
+         <loc>https://amsds.netlify.app/tutorials/hypothesis_guide/</loc>
+         <lastmod>2026-04-16</lastmod>
+    </url>
+    <url>
+         <loc>https://amsds.netlify.app/tutorials/obsidian_vault/</loc>
+         <lastmod>2026-04-16</lastmod>
+    </url>
+    <url>
+         <loc>https://amsds.netlify.app/tutorials/research_rabbit/</loc>
+         <lastmod>2026-04-16</lastmod>
+    </url>
+    <url>
+         <loc>https://amsds.netlify.app/tutorials/tropy_guide/</loc>
+         <lastmod>2026-04-16</lastmod>
+    </url>
+    <url>
+         <loc>https://amsds.netlify.app/tutorials/zotero_setup/</loc>
+         <lastmod>2026-04-16</lastmod>
     </url>
 </urlset>

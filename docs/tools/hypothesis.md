@@ -27,7 +27,7 @@ Annotations can be exported to Markdown and imported into Obsidian. This ensures
 ## Setup Guide for AMS Staff
 1.  **Sign Up:** Create an account at [web.hypothes.is](https://web.hypothes.is/) using your AMS email.
 2.  **Extension:** Install the Hypothesis browser extension for Chrome or Edge.
-3.  **Groups:** Join the **AMS Internal Research** group using the link provided in the [AI Strategy](../../AI%20Strategy/README.md) module.
+3.  **Groups:** Join the **AMS Internal Research** group using the link provided in the [AI Strategy](https://amsamie.netlify.app/) resource site.
 4.  **Annotate:** Click the Hypothesis icon in your browser to start highlighting.
 
 ---
