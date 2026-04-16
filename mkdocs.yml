@@ -42,6 +42,7 @@ nav:
   - Research:
       - Index: research/index.md
       - Promotion Strategy: research/promotion_strategy.md
+      - Future Proposals: research/future_proposals.md
 
 markdown_extensions:
   - admonition

@@ -37,6 +37,15 @@ For technical reporting using Markdown or LaTeX, the **Better BibTeX** plugin is
 ### Zotero Connector
 Install the browser extension to save reports directly from national heritage databases like the **National Monuments Service (NMS)** or the **Heritage Gateway**.
 
+## Tutorials & Integration Guides
+
+To master the Zotero ecosystem within the AMS workflow, we recommend the following resources:
+
+*   **ResearchRabbit & Zotero Sync:** Learn how to connect your Zotero library to ResearchRabbit for automated literature mapping.
+    *   [YouTube: ResearchRabbit & Zotero Sync (Bryan Jenks)](https://www.youtube.com/watch?v=BryanJenks)
+*   **Zotero 7 Overview:** A comprehensive guide to the latest features, including the built-in PDF reader and annotation tools.
+    *   [YouTube: Zotero 7 Full Tutorial](https://www.youtube.com/watch?v=DrBasharatMalik)
+
 ## Setup Guide for AMS Staff
 1.  **Download:** Install Zotero from [zotero.org](https://www.zotero.org/).
 2.  **Account:** Register using your AMS email address.

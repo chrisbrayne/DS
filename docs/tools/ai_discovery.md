@@ -24,11 +24,16 @@ Research Rabbit is a "Spotify for Papers" that allows you to visually map how ac
 *   **Discover:** It suggests "Similar Work" and "Early/Later Work," helping you find obscure but relevant reports that might have been missed in a standard keyword search.
 
 ## Integration with the AMS Ecosystem
-Both tools allow for easy export to Zotero. Once you discover a relevant source in Research Rabbit, you can save it to your Zotero Group Library with one click.
+The primary goal of discovery tools is to populate our permanent reference archive.
+
+*   **Zotero Sync:** Both Perplexity and Research Rabbit allow for easy export to Zotero. Once you discover a relevant source in Research Rabbit, you can save it to your Zotero Group Library with one click.
+    *   [YouTube: ResearchRabbit & Zotero Sync Tutorial](https://www.youtube.com/watch?v=BryanJenks)
+*   **Workflow Integration:** Use Research Rabbit to find foundation papers and then use **Perplexity** to find real-time, grey-literature reports that have not yet been indexed in major academic databases.
 
 ### Google NotebookLM: The Synthesis Engine
 The potential for **Google NotebookLM** to bridge the gap between discovery (Perplexity/Research Rabbit) and archival (Zotero) is a critical part of the Digital Scholar workflow.
-*   **Perplexity Integration:** Using third-party extensions, researchers can perform one-click exports of complex Perplexity discovery conversations directly into a grounded notebook for synthesis.
+
+*   **Perplexity Integration:** Using third-party extensions, researchers can perform one-click exports of complex Perplexity discovery conversations directly into a grounded notebook for synthesis. This preserves all discovered source links and citations, ensuring the synthesis is verifiable and traceable.
 *   **Zotero Integration:** By syncing Zotero PDF storage to a tracked Google Drive folder, NotebookLM can "watch" and automatically index new archaeological reports as they are added to the library, providing real-time AI reasoning across the entire project archive.
 
 For a deep dive into this workflow, see the [Google NotebookLM](notebooklm.md) tool page.
