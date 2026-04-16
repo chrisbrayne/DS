@@ -24,25 +24,32 @@ theme:
 
 nav:
   - Home: index.md
-  - Tools:
-      - Zotero: tools/zotero.md
-      - Obsidian: tools/obsidian.md
-      - Tropy: tools/tropy.md
-      - Hypothesis: tools/hypothesis.md
-      - AI Discovery: tools/ai_discovery.md
-      - NotebookLM: tools/notebooklm.md
-  - Tutorials:
-      - Index: tutorials/index.md
-      - Zotero Setup: tutorials/zotero_setup.md
-      - Obsidian Vault: tutorials/obsidian_vault.md
-      - Tropy Guide: tutorials/tropy_guide.md
-      - Hypothesis Guide: tutorials/hypothesis_guide.md
-      - AI Discovery Guide: tutorials/ai_discovery_guide.md
-      - Research Rabbit: tutorials/research_rabbit.md
-  - Research:
-      - Index: research/index.md
+  - Our Strategy:
+      - The DS Vision: index.md
+      - The Research Chain: workflow_guide.md
+  - Research Pathways:
+      - 'Phase 1: Discovery':
+          - 'Overview: AI Discovery': tools/ai_discovery.md
+          - 'Tutorial: Research Rabbit': tutorials/research_rabbit.md
+          - 'Tutorial: AI Discovery Guide': tutorials/ai_discovery_guide.md
+      - 'Phase 2: Collection':
+          - 'Overview: Zotero (References)': tools/zotero.md
+          - 'Overview: Tropy (Images)': tools/tropy.md
+          - 'Tutorial: Zotero Setup': tutorials/zotero_setup.md
+          - 'Tutorial: Tropy Guide': tutorials/tropy_guide.md
+      - 'Phase 3: Annotation':
+          - 'Overview: Hypothesis': tools/hypothesis.md
+          - 'Tutorial: Hypothesis Guide': tutorials/hypothesis_guide.md
+      - 'Phase 4: Synthesis':
+          - 'Overview: NotebookLM': tools/notebooklm.md
+          - 'Overview: Obsidian': tools/obsidian.md
+          - 'Tutorial: Obsidian Vault': tutorials/obsidian_vault.md
+  - Strategic Growth:
       - Promotion Strategy: research/promotion_strategy.md
       - Future Proposals: research/future_proposals.md
+  - Reference:
+      - Tutorials Archive: tutorials/index.md
+      - Research Archive: research/index.md
 
 markdown_extensions:
   - admonition
