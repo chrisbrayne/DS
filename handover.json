@@ -1,7 +1,7 @@
 {
-    "date": "2026-03-20",
+    "date": "2026-04-16",
     "module": "DS",
-    "summary": "Digital Scholar (DS) Expansion: Created comprehensive tutorials for Obsidian, Hypothesis, Tropy, and AI Discovery, incorporating official video resources. Authored a strategic research paper on 'Digital Scholarship as a Catalyst for Commercial Archaeology Promotion,' defining the 'Consultant-Scholar' model for individual expert profiling. Synchronised all changes to the repository via the safe push sequence, ensuring 100% compliance with the Standard English (UK & Ireland) mandate.",
+    "summary": "Digital Scholar Update: Corrected Netlify URL to amsds.netlify.app; restructured site to a process-oriented 'Learning Pathway'; added comprehensive Google NotebookLM documentation and integration workflows; integrated YouTube tutorial links for all major tools; authored the Discovery-to-Delivery Workflow Guide; and synchronised all changes via safe_push_all.ps1 ensuring 100% Standard English (UK & Ireland) compliance.",
     "pending_tasks": [],
     "status": "Handover Complete"
 }

@@ -4,6 +4,7 @@ The **Digital Scholar (DS)** research hub contains in-depth analysis, tool bench
 
 ## Current Research
 *   [Promoting Commercial Expertise through Digital Scholarship](promotion_strategy.md)
+*   [Future Programme Proposals: Accreditation & Templates](future_proposals.md)
 *   [Zotero for Archaeology: A Comparative Review](../tools/zotero.md)
 *   [The Role of AI in Archaeological Synthesis](../tools/ai_discovery.md)
 *   *Ongoing:* Evaluation of Knowledge Graph tools for site narrative development.
