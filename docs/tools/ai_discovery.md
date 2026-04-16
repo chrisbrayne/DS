@@ -23,8 +23,15 @@ Research Rabbit is a "Spotify for Papers" that allows you to visually map how ac
 *   **Visualise:** Research Rabbit will show you a "Map" of every paper that has cited that source, and every source that paper cited.
 *   **Discover:** It suggests "Similar Work" and "Early/Later Work," helping you find obscure but relevant reports that might have been missed in a standard keyword search.
 
-## Integration with Zotero
+## Integration with the AMS Ecosystem
 Both tools allow for easy export to Zotero. Once you discover a relevant source in Research Rabbit, you can save it to your Zotero Group Library with one click.
+
+### Google NotebookLM: The Synthesis Engine
+The potential for **Google NotebookLM** to bridge the gap between discovery (Perplexity/Research Rabbit) and archival (Zotero) is a critical part of the Digital Scholar workflow.
+*   **Perplexity Integration:** Using third-party extensions, researchers can perform one-click exports of complex Perplexity discovery conversations directly into a grounded notebook for synthesis.
+*   **Zotero Integration:** By syncing Zotero PDF storage to a tracked Google Drive folder, NotebookLM can "watch" and automatically index new archaeological reports as they are added to the library, providing real-time AI reasoning across the entire project archive.
+
+For a deep dive into this workflow, see the [Google NotebookLM](notebooklm.md) tool page.
 
 ## Access for AMS Staff
 *   **Perplexity:** Access via the shared AMS corporate login (contact the AI Team Lead for details).

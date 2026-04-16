@@ -30,6 +30,7 @@ nav:
       - Tropy: tools/tropy.md
       - Hypothesis: tools/hypothesis.md
       - AI Discovery: tools/ai_discovery.md
+      - NotebookLM: tools/notebooklm.md
   - Tutorials:
       - Index: tutorials/index.md
       - Zotero Setup: tutorials/zotero_setup.md
