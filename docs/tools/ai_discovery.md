@@ -4,7 +4,7 @@ Artificial Intelligence discovery tools are revolutionising how we map the resea
 
 ## Perplexity: The Research Engine
 
-Perplexity is an AI-powered search engine that provides direct answers to complex questions, backed by real-world citations. It is used at AMS for:
+Perplexity is an AI-powered search engine that provides direct answers to complex questions, backed by real-world citations. It is available at [perplexity.ai](https://www.perplexity.ai/) and is used at AMS for:
 *   **Legislative Summaries:** "What are the current requirements for underwater archaeology under the Irish National Monuments Act?"
 *   **Regional Context:** "Summarise the Mesolithic archaeology of the Shannon estuary based on recent TII reports."
 *   **Rapid Fact-Checking:** Verifying site names, dates, and historical figures during the drafting process.
