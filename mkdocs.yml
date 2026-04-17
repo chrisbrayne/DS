@@ -50,6 +50,7 @@ nav:
   - Reference:
       - Tutorials Archive: tutorials/index.md
       - Research Archive: research/index.md
+      - Obsidian & SharePoint: research/obsidian_sharepoint_integration.md
 
 markdown_extensions:
   - admonition
